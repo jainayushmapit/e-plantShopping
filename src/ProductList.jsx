@@ -50,6 +50,7 @@ function ProductList({ onHomeClick }) {
                 }
             ]
         },
+        
         {
             category: "Aromatic Fragrant Plants",
             plants: [
